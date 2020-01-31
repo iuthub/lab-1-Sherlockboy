@@ -1,0 +1,14 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Cache-Control": "max-stale=0", 
+    "Host": "httpbin.org", 
+    "If-Modified-Since": "Fri, 31 Jan 2020 08:52:36 GMT", 
+    "Referer": "http://google.com/", 
+    "User-Agent": "curl/7.55.1", 
+    "X-Amzn-Trace-Id": "Root=1-5e33eb09-5d47f2561a81d00668b4a274"
+  }, 
+  "origin": "87.237.236.162", 
+  "url": "http://httpbin.org/get"
+}
